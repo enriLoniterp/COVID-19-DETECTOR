@@ -1,0 +1,2 @@
+COVID
+NON_COVID

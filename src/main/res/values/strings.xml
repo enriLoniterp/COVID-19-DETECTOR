@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CT Covid-19 Detector </string>
+    <string name="covid_red"><![CDATA[<b><font color=#FF0000>COVID</font></b>]]></string>
+    <string name="non_covid_green"><![CDATA[<b><font color=#B5E550>NON COVID</font></b>]]></string>
+</resources>
